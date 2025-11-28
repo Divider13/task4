@@ -4,8 +4,9 @@
   box-sizing: border-box;
 }
 
-
-.text-warning {
-    color: #fbff00;
+.custom-rounded {
+    border-radius: 15px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
 }
     
